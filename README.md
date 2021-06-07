@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HUNshimoWangccc
 - 👀 I’m interested in game and code.
-- 🌱 I’m currently learning c.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me 1259230861@qq.com
 
 <!---
 HUNshimoWangccc/HUNshimoWangccc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
